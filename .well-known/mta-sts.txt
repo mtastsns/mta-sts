@@ -1,0 +1,5 @@
+version: STSv1
+mode: enforce
+max_age: 15552000
+mx: mx01.mail.icloud.com
+mx: mx02.mail.icloud.com
